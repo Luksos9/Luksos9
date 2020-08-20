@@ -1,4 +1,4 @@
-### Hello there  👋 Warm welcome to my GitHub account. You can rest next to this bonefire  🔥 and listen to my story. It would be a pleasure if you could share yours with me too. Feel free to ask me anything and when you feel like it continue you journey. Wish you all the best !
+### Hello there  👋 Warm welcome to my GitHub account. You can rest next to this bonefire  🔥 and listen to my story. It would be a pleasure if you could share yours with me too. Feel free to ask me anything and when you feel like it, continue you journey. Wish you all the best !
 
 - 🔭 I’m currently working on Python
 - 🌱 I’m currently learning SQL/Django
