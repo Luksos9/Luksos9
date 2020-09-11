@@ -9,6 +9,6 @@
 - 👯 I’m looking to collaborate on anything thats challenging or fun
 - 🤔 I’m looking for help with developing my Django skills
 - 💬 Ask me about anything, even weather :D
-- 📫 How to reach me: [@E-mail](lukaszszumilas.9@wp.pl), [@linkedIn](https://www.linkedin.com/in/łukasz-szumilas-5b48821aa/)
+- 📫 How to reach me: **E-mail**: *lukaszszumilas.9@wp.pl*, [@linkedIn](https://www.linkedin.com/in/łukasz-szumilas-5b48821aa/)
 - ⚡ Fun/Intresting facts: I prefer nights over days, especially when i put my headphones on, sit in front of my laptop, run some good instrumental music and just be productive. It's thrilling and it gives me so much joy. If u can relate, high five ! :D
 Also I just love coding. Since I started learning it, there is no day without it. I'm so fascinated by it and want to consantly learn.
