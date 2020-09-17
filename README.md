@@ -4,7 +4,7 @@
 ### Feel free to ask me anything and when you feel like it, continue your journey. 
 ### Wish you all the best !
 
-- 🔭 I’m currently working on Python/SQL (PostgreSQL and MySQL)
+- 🔭 I’m currently working on Python/SQL (PostgreSQL and SQLite)
 - 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate on anything thats challenging or fun
 - 🤔 I’m looking for help with developing my Django skills
