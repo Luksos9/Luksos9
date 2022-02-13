@@ -1,3 +1,10 @@
+# Biggest projects that can be found in repositories:
+
+- Python/Django - "DjangoToDoApp"
+- Python Postgre/Sqlite - PythonSQL/"Poll Application" (among others)
+- Python OOP - "PythonOOP"
+- JavaScript/HTML/CSS - "BankistApp" or "MyBankApp" or "guessMyNumber"
+
 ##  Hello there  👋 
 ### Warm welcome to my GitHub account. You can rest next to this campfire 🔥 and listen to my story.
 ### It would be a pleasure if you could share yours with me too.
